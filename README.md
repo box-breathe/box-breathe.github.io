@@ -268,7 +268,7 @@ For maximum accessibility and keyboard-only navigation:
 ## 💻 Getting Started
 
 ### Prerequisites
-- **Node.js** `v18.0.0` or higher (tested on Node `v24.x`)
+- **Node.js** `v22.12.0` or higher (tested on Node `v22.x` and `v24.x`)
 - **npm**, **pnpm**, or **yarn**
 
 ### Local Setup
