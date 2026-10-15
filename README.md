@@ -241,7 +241,7 @@ BoxBreathe achieves a verified **100/100 Technical SEO audit score**:
 
 * **5-Pillar Schema.org JSON-LD Entities**:
   1. `WebSite`: Declares brand identity, search actions, and international coverage.
-  2. `WebApplication`: Health app categorization, free pricing, and 4.9★ aggregate rating.
+  2. `WebApplication`: Health app categorization, 100% free accessibility, and browser requirements.
   3. `HowTo`: Ordered 4-phase step guide with deep-anchor URLs (`#step-1` to `#step-4`).
   4. `BreadcrumbList`: Verified search breadcrumb trail (`Home / 4-4-4-4 Box Breathing Tool`).
   5. `FAQPage`: Rich snippet Q&A cards for high-intent search queries.
