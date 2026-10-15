@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03684A" />
+      <stop offset="50%" stop-color="#15D59C" />
+      <stop offset="100%" stop-color="#66E1BC" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#boxGrad)" />
+  <rect x="14" y="14" width="36" height="36" rx="10" fill="#091512" />
+  <rect x="22" y="22" width="20" height="20" rx="5" fill="#15D59C" />
+</svg>

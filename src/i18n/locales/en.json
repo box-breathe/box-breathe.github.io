@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "BoxBreathe | Free Online 4-4-4-4 Box Breathing & Focus Tool",
+    "description": "Free online 4-4-4-4 box breathing (square breathing) tool. Ultra-minimal, 100% client-side pacer with synthesized Web Audio ambient chimes. Lower stress, restore focus, and regulate your nervous system.",
+    "keywords": "box breathing online, 4-4-4-4 breathing timer, square breathing tool, navy seal breathing exercise, stress relief timer, mindfulness pacer, calm breathing online"
+  },
+  "nav": {
+    "logo": "BoxBreathe",
+    "tagline": "4-4-4-4 Focus Tool",
+    "language": "Language",
+    "themeLight": "Switch to Light Mode",
+    "themeDark": "Switch to Dark Mode",
+    "support": "Support",
+    "supportDev": "Support the Developer"
+  },
+  "breathing": {
+    "inhale": "Inhale",
+    "holdIn": "Hold",
+    "exhale": "Exhale",
+    "holdOut": "Hold",
+    "ready": "Ready",
+    "paused": "Paused",
+    "promptInhale": "Inhale slowly and deeply through your nose",
+    "promptHoldIn": "Hold gently with lungs full · Relax your shoulders",
+    "promptExhale": "Release breath smoothly and completely",
+    "promptHoldOut": "Rest calmly with empty lungs before the next breath",
+    "promptReady": "Press Start or Spacebar to begin your session",
+    "promptPaused": "Session paused · Press Resume or Spacebar when ready",
+    "start": "Start Breathing",
+    "pause": "Pause",
+    "resume": "Resume",
+    "reset": "Reset",
+    "mute": "Mute Chimes",
+    "unmute": "Enable Chimes",
+    "chimesActive": "Zen Chimes Active",
+    "chimesMuted": "Audio Muted",
+    "durationLabel": "Box Duration",
+    "pace3s": "3s · Beginner",
+    "pace4s": "4s · Navy SEAL",
+    "pace5s": "5s · Deep Calm",
+    "pace6s": "6s · Advanced",
+    "cycle": "Cycle",
+    "cyclesCompleted": "Cycles Done",
+    "mindfulMinutes": "Mindful Minutes",
+    "resetStats": "Reset",
+    "keyboardTip": "Shortcuts: Space to Start/Pause · M to Mute · R to Reset",
+    "soundNotice": "Synthesized Web Audio singing bowl harmonics · 100% offline & zero MP3 downloads"
+  },
+  "guide": {
+    "badge": "Mindful Science",
+    "title": "The Science of 4-4-4-4 Box Breathing",
+    "subtitle": "Used by US Navy SEALs, peak performance athletes, and healthcare professionals to dissolve acute stress and restore razor-sharp mental clarity.",
+    "whatIsHeading": "What is Box Breathing?",
+    "whatIsText": "Box breathing, also known as four-square breathing, is an autonomic regulation technique. It equalizes the four breath intervals: 4 seconds inhaling, 4 seconds holding full, 4 seconds exhaling, and 4 seconds holding empty. By tracing a balanced geometric square, you consciously override your body's fight-or-flight survival response.",
+    "sealUsageHeading": "Why Navy SEALs Use Square Breathing",
+    "sealUsageText": "During high-stress tactical operations, adrenaline surges cause rapid, shallow breathing, spiked heart rate, and severe cognitive tunnel vision. Navy SEALs practice box breathing before and during missions to stimulate the vagus nerve, lower resting heart rate, and re-engage the prefrontal cortex for calm, decisive decision-making.",
+    "stepsHeading": "How to Practice in 4 Simple Steps",
+    "step1Title": "1. Inhale (4s)",
+    "step1Desc": "Draw air inward through your nose into the depths of your belly. Feel your diaphragm expand.",
+    "step2Title": "2. Hold Full (4s)",
+    "step2Desc": "Keep your lungs comfortably full without straining or clamping down on your vocal cords.",
+    "step3Title": "3. Exhale (4s)",
+    "step3Desc": "Gently expel all air through your nose or lips, consciously relaxing your neck, jaw, and chest.",
+    "step4Title": "4. Hold Empty (4s)",
+    "step4Desc": "Pause peacefully at the bottom of the breath before initiating your next inhalation.",
+    "benefitsHeading": "Clinically Proven Benefits",
+    "b1Title": "Instant Stress & Anxiety Relief",
+    "b1Desc": "Triggers the parasympathetic 'rest-and-digest' state within 2 to 3 minutes, counteracting cortisol.",
+    "b2Title": "Vagus Nerve Activation",
+    "b2Desc": "Diaphragmatic expansion stimulates the vagus nerve, boosting Heart Rate Variability (HRV).",
+    "b3Title": "Sharpened Focus & Working Memory",
+    "b3Desc": "Normalizes CO2 and O2 blood gas exchange, eliminating mental fog and fatigue under pressure.",
+    "b4Title": "Blood Pressure Stabilization",
+    "b4Desc": "Rhythmic square pacing slows cardiovascular strain and helps decrease resting systolic pressure."
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subtitle": "Common questions regarding box breathing, pacing techniques, and how to get the most from this tool.",
+    "items": [
+      {
+        "q": "What is the 4-4-4-4 box breathing technique?",
+        "a": "Box breathing (or square breathing) is a breath regulation method where you inhale for 4 seconds, hold your breath for 4 seconds, exhale for 4 seconds, and hold empty for 4 seconds. Visualizing the four equal sides of a square helps maintain steady pacing."
+      },
+      {
+        "q": "How long should I practice box breathing?",
+        "a": "Just 2 to 5 minutes (around 8 to 20 full cycles) is sufficient to shift your nervous system out of high alert into calm focus. Many users enjoy doing 5 minutes every morning or before stressful tasks like presentations and exams."
+      },
+      {
+        "q": "Which box duration should I choose (3s, 4s, 5s, 6s)?",
+        "a": "4 seconds is the gold standard used by Navy SEALs. Beginners or individuals feeling short of breath can start with 3 seconds. For deeper meditation, 5 or 6 seconds offers a more profound down-regulation."
+      },
+      {
+        "q": "How does the synthesized audio cue work?",
+        "a": "BoxBreathe uses the browser's native Web Audio API to synthesize zen singing bowl harmonic sine waves in real-time. There are zero external MP3 files to download, ensuring zero latency and 100% offline functionality."
+      },
+      {
+        "q": "Can box breathing help with panic attacks or insomnia?",
+        "a": "Yes. Controlled slow breathing interrupts hyperventilation loops, signals safety to the amygdala, and lowers sympathetic tone, making it highly effective for calming panic sensations and preparing the body for deep sleep."
+      },
+      {
+        "q": "Is any of my personal data tracked or stored on a server?",
+        "a": "Never. BoxBreathe is 100% client-side with zero tracking, zero cookies, zero analytics scripts, and zero server dependencies. Your completed mindful minutes are saved only in your browser's private LocalStorage."
+      }
+    ]
+  },
+  "footer": {
+    "quote": "Breathe in calm, exhale tension.",
+    "privacy": "100% Client-Side · Zero Tracking · Total Privacy · Works Offline",
+    "support": "Support the Developer",
+    "builtBy": "Built with care for peaceful minds everywhere."
+  }
+}

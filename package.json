@@ -1,0 +1,26 @@
+{
+  "name": "box-breathe.github.io",
+  "version": "1.0.0",
+  "description": "box-breathe.github.io",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "bugs": {
+    "url": "https://github.com/box-breathe/box-breathe.github.io/issues"
+  },
+  "homepage": "https://github.com/box-breathe/box-breathe.github.io#readme",
+  "dependencies": {
+    "@astrojs/react": "^7.0.1",
+    "@astrojs/tailwind": "^6.0.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "astro": "^7.3.8",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^3.4.19"
+  }
+}

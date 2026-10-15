@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "BoxBreathe | Ferramenta Online Gratuita de Respiração Quadrada 4-4-4-4",
+    "description": "Ferramenta online gratuita de respiração em caixa (quadrada) 4-4-4-4. Guia visual ultra-minimalista 100% no cliente com sinos harmônicos Web Audio. Reduza o estresse e aumente o foco.",
+    "keywords": "respiração quadrada online, box breathing 4-4-4-4, técnica navy seals, diminuir estresse, meditação guiada grátis, foco mental"
+  },
+  "nav": {
+    "logo": "BoxBreathe",
+    "tagline": "Ferramenta de Foco 4-4-4-4",
+    "language": "Idioma",
+    "themeLight": "Modo Claro",
+    "themeDark": "Modo Escuro",
+    "support": "Apoiar",
+    "supportDev": "Pague um Café"
+  },
+  "breathing": {
+    "inhale": "Inspire",
+    "holdIn": "Segure",
+    "exhale": "Expire",
+    "holdOut": "Segure",
+    "ready": "Pronto",
+    "paused": "Pausado",
+    "promptInhale": "Inspire calma e profundamente pelo nariz",
+    "promptHoldIn": "Segure o ar suavemente · Relaxe os ombros",
+    "promptExhale": "Solte todo o ar de maneira suave e contínua",
+    "promptHoldOut": "Descanse com pulmões vazios antes do próximo ciclo",
+    "promptReady": "Pressione Iniciar ou a Barra de Espaço para começar",
+    "promptPaused": "Sessão pausada · Pressione Retomar ou a Barra de Espaço",
+    "start": "Iniciar Respiração",
+    "pause": "Pausar",
+    "resume": "Retomar",
+    "reset": "Reiniciar",
+    "mute": "Silenciar Sinos",
+    "unmute": "Ativar Sinos",
+    "chimesActive": "Sinos Zen Ativos",
+    "chimesMuted": "Áudio Mutado",
+    "durationLabel": "Duração da Fase",
+    "pace3s": "3s · Iniciante",
+    "pace4s": "4s · Padrão SEAL",
+    "pace5s": "5s · Calma Profunda",
+    "pace6s": "6s · Avançado",
+    "cycle": "Ciclo",
+    "cyclesCompleted": "Ciclos Concluídos",
+    "mindfulMinutes": "Minutos Conscientes",
+    "resetStats": "Zerar",
+    "keyboardTip": "Atalhos: Espaço para Iniciar/Pausar · M para Áudio · R para Reiniciar",
+    "soundNotice": "Sinos harmônicos sintetizados via Web Audio · 100% offline e sem downloads"
+  },
+  "guide": {
+    "badge": "Ciência da Respiração",
+    "title": "A Ciência da Respiração Quadrada 4-4-4-4",
+    "subtitle": "Utilizada por Navy SEALs, atletas de alto rendimento e terapeutas para desarmar a ansiedade e restaurar a calma.",
+    "whatIsHeading": "O que é a Respiração em Caixa (Box Breathing)?",
+    "whatIsText": "A respiração em caixa é um protocolo de regulação do sistema nervoso que divide a respiração em quatro tempos rigorosamente iguais: 4 segundos inspirando, 4 segundos retendo cheio, 4 segundos expirando e 4 segundos retendo vazio.",
+    "sealUsageHeading": "Por que os Navy SEALs usam?",
+    "sealUsageText": "Sob estresse extremo de combate, a adrenalina descontrola os batimentos cardíacos. O box breathing ativa o nervo vago e desativa a resposta de luta ou fuga, preservando o foco tático e o discernimento sob pressão.",
+    "stepsHeading": "Como Praticar em 4 Passos",
+    "step1Title": "1. Inspire (4s)",
+    "step1Desc": "Puxe o ar pelo nariz preenchendo a parte inferior do abdômen.",
+    "step2Title": "2. Segure Cheio (4s)",
+    "step2Desc": "Mantenha os pulmões cheios confortavelmente, sem tencionar o pescoço.",
+    "step3Title": "3. Expire (4s)",
+    "step3Desc": "Solte todo o ar pela boca ou nariz de maneira controlada.",
+    "step4Title": "4. Segure Vazio (4s)",
+    "step4Desc": "Fique em repouso com os pulmões vazios antes do próximo ciclo.",
+    "benefitsHeading": "Benefícios Cientificamente Validados",
+    "b1Title": "Alívio Rápido do Estresse",
+    "b1Desc": "Estimula o sistema parassimpático em menos de 3 minutos.",
+    "b2Title": "Tonificação do Nervo Vago",
+    "b2Desc": "Melhora a Variabilidade da Frequência Cardíaca (VFC).",
+    "b3Title": "Foco e Clareza Mental",
+    "b3Desc": "Equilibra as taxas de CO2 e O2 dissipando a fadiga mental.",
+    "b4Title": "Equilíbrio da Pressão Arterial",
+    "b4Desc": "Ajuda a estabilizar a pressão sistólica de repouso."
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "subtitle": "Tudo sobre o método 4-4-4-4 e o funcionamento da ferramenta.",
+    "items": [
+      {
+        "q": "O que é a respiração 4-4-4-4?",
+        "a": "É uma técnica onde você inspira por 4s, segura por 4s, expira por 4s e segura vazio por 4s, formando um quadrado perfeito."
+      },
+      {
+        "q": "Por quantos minutos devo praticar?",
+        "a": "De 2 a 5 minutos diários são ideais para desarmar o estresse acumulado e restabelecer o foco."
+      },
+      {
+        "q": "Qual ritmo devo escolher (3s, 4s, 5s ou 6s)?",
+        "a": "4s é o padrão mundial. Iniciantes podem usar 3s, enquanto quem busca desaceleração profunda pode optar por 5s ou 6s."
+      },
+      {
+        "q": "Como o áudio zen é gerado?",
+        "a": "Utilizamos a Web Audio API nativa do navegador para sintetizar ondas harmônicas em tempo real, sem necessidade de baixar MP3s."
+      },
+      {
+        "q": "Ajuda na insônia e ansiedade?",
+        "a": "Sim. A cadência rítmica sinaliza segurança ao cérebro e prepara o corpo para relaxamento e sono profundo."
+      },
+      {
+        "q": "Meus dados de uso são salvos?",
+        "a": "Apenas no seu navegador via LocalStorage. Zero servidores, zero cookies de rastreio e 100% de privacidade."
+      }
+    ]
+  },
+  "footer": {
+    "quote": "Inspire paz, expire ansiedade.",
+    "privacy": "100% Lado do Cliente · Sem Rastreamento · Total Privacidade · Funciona Offline",
+    "support": "Apoie o Desenvolvedor",
+    "builtBy": "Desenvolvido com carinho para mentes serenas."
+  }
+}

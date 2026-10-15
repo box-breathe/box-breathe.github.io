@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { BreathingBox } from '../components/BreathingBox';
+import GuideSection from '../components/GuideSection.astro';
+import FaqSection from '../components/FaqSection.astro';
+import { getTranslations } from '../i18n';
+
+const lang = 'en';
+const t = getTranslations(lang);
+---
+
+<BaseLayout lang={lang}>
+  <!-- Main Visualizer & Core Interactive Section -->
+  <section class="w-full flex flex-col items-center justify-center pt-2 sm:pt-6 md:pt-8 pb-3 sm:pb-6 px-2 sm:px-4">
+    <!-- Accessible Breadcrumbs for Instant Google Snippet Trail -->
+    <nav aria-label="Breadcrumb" class="w-full max-w-lg mx-auto mb-2 text-center">
+      <ol class="inline-flex items-center gap-1.5 text-[11px] sm:text-xs text-slate-400 dark:text-slate-500">
+        <li>
+          <a href="/" class="hover:text-[#03684A] dark:hover:text-[#15D59C] transition-colors">
+            Home
+          </a>
+        </li>
+        <li><span>/</span></li>
+        <li class="text-[#03684A] dark:text-[#66E1BC] font-medium" aria-current="page">
+          4-4-4-4 Box Breathing Tool
+        </li>
+      </ol>
+    </nav>
+
+    <!-- Main Keyword Anchor H1 -->
+    <div class="text-center max-w-xl mx-auto mb-1.5 sm:mb-3">
+      <h1 class="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-[#03684A] dark:text-white">
+        Box Breathing · 4-4-4-4 Focus Tool
+      </h1>
+      <p class="mt-1 text-xs sm:text-base text-slate-600 dark:text-slate-400 font-normal max-w-md mx-auto">
+        A scientifically proven four-sided breathing rhythm to calm your nervous system and restore razor-sharp focus in minutes.
+      </p>
+      
+      <!-- Quick Navigation Jump Sitelinks -->
+      <div class="flex items-center justify-center gap-3 mt-2 text-[11px] sm:text-xs text-[#03684A] dark:text-[#15D59C] font-semibold">
+        <a href="#how-to" class="hover:underline">How It Works</a>
+        <span>·</span>
+        <a href="#benefits" class="hover:underline">Benefits</a>
+        <span>·</span>
+        <a href="#faq" class="hover:underline">FAQ</a>
+      </div>
+    </div>
+
+    <!-- React Island: Client-Side Interactive Breathing Visualizer -->
+    <BreathingBox client:load t={t.breathing} langCode={lang} />
+  </section>
+
+  <!-- Educational Guide with Named Jump Anchors -->
+  <div id="how-to">
+    <GuideSection t={t.guide} />
+  </div>
+
+  <!-- FAQ Section with Named Jump Anchors -->
+  <div id="faq">
+    <FaqSection t={t.faq} />
+  </div>
+</BaseLayout>

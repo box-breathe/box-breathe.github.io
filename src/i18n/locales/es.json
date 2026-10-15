@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "BoxBreathe | Herramienta Online Gratuita de Respiración Cuadrada 4-4-4-4",
+    "description": "Herramienta online gratuita de respiración en caja (respiración cuadrada) 4-4-4-4. Guía visual ultra-minimalista 100% del lado del cliente con cuencos tibetanos Web Audio. Reduce el estrés y recupera el enfoque.",
+    "keywords": "respiración cuadrada online, técnica 4-4-4-4, temporizador box breathing, respiración navy seals, meditación guiada gratis, reducir ansiedad"
+  },
+  "nav": {
+    "logo": "BoxBreathe",
+    "tagline": "Herramienta de Enfoque 4-4-4-4",
+    "language": "Idioma",
+    "themeLight": "Modo Claro",
+    "themeDark": "Modo Oscuro",
+    "support": "Apoyar",
+    "supportDev": "Invítame a un Café"
+  },
+  "breathing": {
+    "inhale": "Inhala",
+    "holdIn": "Mantén",
+    "exhale": "Exhala",
+    "holdOut": "Mantén",
+    "ready": "Listo",
+    "paused": "Pausado",
+    "promptInhale": "Inhala lenta y profundamente por la nariz",
+    "promptHoldIn": "Mantén los pulmones llenos · Relaja los hombros",
+    "promptExhale": "Suelta el aire de forma suave y continua",
+    "promptHoldOut": "Descansa con los pulmones vacíos antes de la próxima inhalación",
+    "promptReady": "Pulsa Iniciar o la Barra Espaciadora para comenzar",
+    "promptPaused": "Sesión pausada · Pulsa Reanudar o la Barra Espaciadora",
+    "start": "Iniciar Respiración",
+    "pause": "Pausar",
+    "resume": "Reanudar",
+    "reset": "Reiniciar",
+    "mute": "Silenciar Campanas",
+    "unmute": "Activar Sonido",
+    "chimesActive": "Campanas Zen Activas",
+    "chimesMuted": "Sonido Silenciado",
+    "durationLabel": "Duración de Fase",
+    "pace3s": "3s · Principiante",
+    "pace4s": "4s · Estándar SEAL",
+    "pace5s": "5s · Calma Profunda",
+    "pace6s": "6s · Avanzado",
+    "cycle": "Ciclo",
+    "cyclesCompleted": "Ciclos Completados",
+    "mindfulMinutes": "Minutos Conscientes",
+    "resetStats": "Reiniciar",
+    "keyboardTip": "Atajos: Espacio para Iniciar/Pausar · M para Sonido · R para Reiniciar",
+    "soundNotice": "Campanas armónicas sintetizadas con Web Audio · Sin descargas y 100% offline"
+  },
+  "guide": {
+    "badge": "Ciencia y Bienestar",
+    "title": "La Ciencia de la Respiración Cuadrada 4-4-4-4",
+    "subtitle": "Utilizada por los Navy SEALs, atletas de élite y psicólogos para desactivar el estrés agudo y restaurar la claridad mental en cuestión de minutos.",
+    "whatIsHeading": "¿Qué es la Respiración Cuadrada (Box Breathing)?",
+    "whatIsText": "La respiración en caja es un método de autorregulación neurovegetativa compuesto por cuatro fases de igual duración: inhalar 4 segundos, retener el aire 4 segundos, exhalar 4 segundos y mantener los pulmones vacíos 4 segundos. Visualizar los cuatro lados de un cuadrado ayuda a estabilizar el ritmo cardíaco y activar el sistema parasimpático.",
+    "sealUsageHeading": "¿Por qué la usan los Navy SEALs?",
+    "sealUsageText": "En situaciones tácticas de alta presión, la adrenalina desata una respiración rápida y superficial, bloqueando la capacidad de análisis. Los Navy SEALs emplean el box breathing para estimular el nervio vago, reducir la frecuencia cardíaca y recuperar el control consciente del córtex prefrontal.",
+    "stepsHeading": "Cómo Practicar en 4 Sencillos Pasos",
+    "step1Title": "1. Inhala (4s)",
+    "step1Desc": "Introduce aire por la nariz expandiendo el abdomen profundamente.",
+    "step2Title": "2. Retén lleno (4s)",
+    "step2Desc": "Sostén el aire con calma en los pulmones sin tensar el cuello ni la mandíbula.",
+    "step3Title": "3. Exhala (4s)",
+    "step3Desc": "Expulsa el aire con suavidad por la boca o la nariz hasta vaciar los pulmones.",
+    "step4Title": "4. Retén vacío (4s)",
+    "step4Desc": "Permanece en quietud con los pulmones vacíos antes de la siguiente inhalación.",
+    "benefitsHeading": "Beneficios Clínicos Comprobados",
+    "b1Title": "Alivio Rápido de Ansiedad",
+    "b1Desc": "Activa la respuesta parasimpática de calma en solo 2 a 3 minutos.",
+    "b2Title": "Estimulación del Nervio Vago",
+    "b2Desc": "Incrementa la Variabilidad de la Frecuencia Cardíaca (VFC o HRV).",
+    "b3Title": "Enfoque y Lucidez Mental",
+    "b3Desc": "Equilibra el intercambio de O2 y CO2 eliminando la fatiga cognitiva.",
+    "b4Title": "Estabilización de Presión Arterial",
+    "b4Desc": "Reduce la sobrecarga simpática y normaliza la tensión sistólica en reposo."
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre la respiración en caja y esta aplicación.",
+    "items": [
+      {
+        "q": "¿Qué es exactamente la respiración 4-4-4-4?",
+        "a": "Es una técnica de respiración donde inhalas, retienes, exhalas y mantienes el vacío durante 4 segundos exactos en cada fase, formando un ciclo simétrico de 16 segundos."
+      },
+      {
+        "q": "¿Cuánto tiempo debo practicar cada día?",
+        "a": "De 2 a 5 minutos diarios (entre 8 y 20 ciclos completos) bastan para notar un cambio profundo de calma y concentración."
+      },
+      {
+        "q": "¿Qué duración debo elegir (3s, 4s, 5s o 6s)?",
+        "a": "4 segundos es el ritmo clásico. Si te sientes agitado, 3 segundos es ideal para empezar. 5 o 6 segundos son perfectos para meditaciones más profundas."
+      },
+      {
+        "q": "¿Cómo funcionan los sonidos de campana?",
+        "a": "Se generan en tiempo real utilizando la Web Audio API del navegador, creando tonos sinusoidales puros sin necesidad de descargar archivos de audio externos."
+      },
+      {
+        "q": "¿Ayuda con los ataques de pánico o el insomnio?",
+        "a": "Sí. Desacelera el sistema nervioso autónomo y frena el ciclo de hiperventilación, facilitando conciliar el sueño y disipar el pánico."
+      },
+      {
+        "q": "¿Se recopila o envía algún dato a un servidor?",
+        "a": "No. BoxBreathe funciona 100% en tu navegador sin rastreadores, cookies ni servidores externos. Tus minutos se guardan únicamente en tu dispositivo."
+      }
+    ]
+  },
+  "footer": {
+    "quote": "Inhala calma, exhala tensión.",
+    "privacy": "100% Lado del Cliente · Cero Rastreo · Privacidad Total · Funciona Sin Conexión",
+    "support": "Apoyar al Desarrollador",
+    "builtBy": "Creado con esmero para una mente serena."
+  }
+}

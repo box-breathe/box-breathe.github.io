@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "BoxBreathe | Outil Gratuit de Respiration Carrée 4-4-4-4 en Ligne",
+    "description": "Outil en ligne gratuit de respiration carrée (box breathing) 4-4-4-4. Guide visuel ultra-minimaliste 100% côté client avec bols chantants Web Audio. Réduisez le stress et améliorez votre concentration.",
+    "keywords": "respiration carrée en ligne, box breathing 4-4-4-4, technique navy seal respiration, calmer le stress, cohérence cardiaque, méditation guidée gratuite"
+  },
+  "nav": {
+    "logo": "BoxBreathe",
+    "tagline": "Outil de Concentration 4-4-4-4",
+    "language": "Langue",
+    "themeLight": "Mode Clair",
+    "themeDark": "Mode Sombre",
+    "support": "Soutenir",
+    "supportDev": "Offrir un Café"
+  },
+  "breathing": {
+    "inhale": "Inspirez",
+    "holdIn": "Retenez",
+    "exhale": "Expirez",
+    "holdOut": "Retenez",
+    "ready": "Prêt",
+    "paused": "En pause",
+    "promptInhale": "Inspirez lentement et profondément par le nez",
+    "promptHoldIn": "Poumons pleins · Relâchez vos épaules",
+    "promptExhale": "Expirez doucement et complètement",
+    "promptHoldOut": "Reposez-vous poumons vides avant le prochain souffle",
+    "promptReady": "Appuyez sur Démarrer ou la barre d'espace pour débuter",
+    "promptPaused": "Session en pause · Appuyez sur Reprendre ou Espace",
+    "start": "Démarrer la Respiration",
+    "pause": "Pause",
+    "resume": "Reprendre",
+    "reset": "Réinitialiser",
+    "mute": "Couper le Son",
+    "unmute": "Activer le Son",
+    "chimesActive": "Sons Zen Actifs",
+    "chimesMuted": "Audio Coupé",
+    "durationLabel": "Durée de Phase",
+    "pace3s": "3s · Débutant",
+    "pace4s": "4s · Standard Navy SEAL",
+    "pace5s": "5s · Calme Profond",
+    "pace6s": "6s · Avancé",
+    "cycle": "Cycle",
+    "cyclesCompleted": "Cycles Terminés",
+    "mindfulMinutes": "Minutes de Présence",
+    "resetStats": "Reset",
+    "keyboardTip": "Raccourcis: Espace pour Démarrer/Pause · M pour le Son · R pour Reset",
+    "soundNotice": "Bols tibétains synthétisés par Web Audio · 100% hors-ligne sans téléchargement MP3"
+  },
+  "guide": {
+    "badge": "Science du Souffle",
+    "title": "La Science de la Respiration Carrée 4-4-4-4",
+    "subtitle": "Adoptée par les commandos de marine, les sportifs de haut niveau et les thérapeutes pour désactiver le stress aigu en quelques minutes.",
+    "whatIsHeading": "Qu'est-ce que la Respiration Carrée ?",
+    "whatIsText": "La respiration carrée (box breathing) régule le système nerveux en divisant le cycle respiratoire en quatre temps égaux : 4 secondes d'inspiration, 4 secondes de rétention poumons pleins, 4 secondes d'expiration et 4 secondes de rétention poumons vides.",
+    "sealUsageHeading": "Pourquoi les Navy SEALs l'utilisent-ils ?",
+    "sealUsageText": "Sous l'adrénaline d'un combat, la respiration s'emballe et la lucidité diminue. La respiration carrée stimule le nerf vague, fait chuter la fréquence cardiaque et rétablit le contrôle du cortex préfrontal.",
+    "stepsHeading": "Comment Pratiquer en 4 Étapes",
+    "step1Title": "1. Inspirer (4s)",
+    "step1Desc": "Inspirez par le nez en gonflant le ventre en profondeur.",
+    "step2Title": "2. Retenir plein (4s)",
+    "step2Desc": "Gardez l'air dans vos poumons sans contracter la gorge.",
+    "step3Title": "3. Expirer (4s)",
+    "step3Desc": "Videz complètement vos poumons avec fluidité.",
+    "step4Title": "4. Retenir vide (4s)",
+    "step4Desc": "Restez dans le calme poumons vides avant la prochaine inspiration.",
+    "benefitsHeading": "Bienfaits Reconnus",
+    "b1Title": "Soulagement Rapide de l'Anxiété",
+    "b1Desc": "Active le système parasympathique en 2 à 3 minutes chrono.",
+    "b2Title": "Stimulation du Nerf Vague",
+    "b2Desc": "Optimise la Variabilité de la Fréquence Cardiaque (VFC).",
+    "b3Title": "Clarté Mentale & Concentration",
+    "b3Desc": "Rétablit l'équilibre gazeux sanguin et dissipe la fatigue cognitive.",
+    "b4Title": "Régulation de la Tension",
+    "b4Desc": "Aide à apaiser la pression artérielle sous tension."
+  },
+  "faq": {
+    "heading": "Questions Fréquentes",
+    "subtitle": "Tout comprendre sur le rythme 4-4-4-4 et cette application.",
+    "items": [
+      {
+        "q": "En quoi consiste la méthode 4-4-4-4 ?",
+        "a": "Chaque phase dure exactement 4 secondes : inspiration, pause poumons pleins, expiration et pause poumons vides."
+      },
+      {
+        "q": "Combien de temps pratiquer chaque jour ?",
+        "a": "2 à 5 minutes par jour suffisent pour retrouver calme et clarté d'esprit."
+      },
+      {
+        "q": "Quel rythme choisir (3s, 4s, 5s ou 6s) ?",
+        "a": "4s est le standard universel. Commencez par 3s si besoin, ou passez à 5-6s pour une méditation plus profonde."
+      },
+      {
+        "q": "Comment les sons sont-ils produits ?",
+        "a": "Grâce à l'API Web Audio de votre navigateur, les harmoniques sont générées en direct sans aucun fichier MP3 externe."
+      },
+      {
+        "q": "Est-ce efficace contre les crises de panique ?",
+        "a": "Absolument, elle enraye l'hyperventilation et signale au cerveau que vous êtes en sécurité."
+      },
+      {
+        "q": "Mes données sont-elles conservées ?",
+        "a": "Non. Tout reste stocké localement dans votre navigateur. Aucun cookie, aucun tracker, aucun serveur."
+      }
+    ]
+  },
+  "footer": {
+    "quote": "Inspirez le calme, expirez les tensions.",
+    "privacy": "100% Côté Client · Aucun Pistage · Confidentialité Totale · Fonctionne Hors-Ligne",
+    "support": "Soutenir le Développeur",
+    "builtBy": "Conçu avec bienveillance pour un esprit apaisé."
+  }
+}

@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: #F8FAF9;
+    --color-surface: #E5F6F1;
+    --color-primary: #03684A;
+    --color-mint: #15D59C;
+    --color-softMint: #66E1BC;
+  }
+
+  html.dark {
+    --color-bg: #091512;
+    --color-surface: #10221D;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: #111827;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html.dark body {
+    color: #F1F5F9;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(3, 104, 74, 0.25);
+  border-radius: 9999px;
+}
+
+html.dark ::-webkit-scrollbar-thumb {
+  background: rgba(21, 213, 156, 0.25);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(3, 104, 74, 0.45);
+}
+
+html.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(21, 213, 156, 0.45);
+}
+
+/* Smooth focus rings for accessibility */
+*:focus-visible {
+  outline: 2px solid #03684A;
+  outline-offset: 2px;
+}
+
+html.dark *:focus-visible {
+  outline: 2px solid #15D59C;
+  outline-offset: 2px;
+}
+
+/* Glassmorphism utility with serene tint */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(229, 246, 241, 0.95);
+}
+
+html.dark .glass-panel {
+  background: rgba(16, 34, 29, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(26, 56, 48, 0.8);
+}

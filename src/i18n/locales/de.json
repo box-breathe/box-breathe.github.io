@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "BoxBreathe | Kostenloses Online 4-4-4-4 Box Breathing & Fokus Tool",
+    "description": "Kostenloses Online-Tool für 4-4-4-4 Box Breathing (Quadratatmung). Minimalistische visuelle Führung mit synthetisierten Web-Audio Klangschalen. Stress abbauen und Konzentration stärken.",
+    "keywords": "box breathing online, 4-4-4-4 atmung timer, quadratatmung anleitung, navy seal atemtechnik, stress abbauen, achtsamkeit atemübung"
+  },
+  "nav": {
+    "logo": "BoxBreathe",
+    "tagline": "4-4-4-4 Fokus Tool",
+    "language": "Sprache",
+    "themeLight": "Heller Modus",
+    "themeDark": "Dunkler Modus",
+    "support": "Unterstützen",
+    "supportDev": "Kaffee spendieren"
+  },
+  "breathing": {
+    "inhale": "Einatmen",
+    "holdIn": "Halten",
+    "exhale": "Ausatmen",
+    "holdOut": "Halten",
+    "ready": "Bereit",
+    "paused": "Pausiert",
+    "promptInhale": "Langsam und tief durch die Nase einatmen",
+    "promptHoldIn": "Luft sanft anhalten · Schultern entspannen",
+    "promptExhale": "Gleichmäßig und vollständig ausatmen",
+    "promptHoldOut": "Mit leeren Lungen verweilen vor dem nächsten Atemzug",
+    "promptReady": "Start oder Leertaste drücken, um zu beginnen",
+    "promptPaused": "Pausiert · Weiter oder Leertaste drücken",
+    "start": "Atmung starten",
+    "pause": "Pause",
+    "resume": "Fortsetzen",
+    "reset": "Zurücksetzen",
+    "mute": "Klang stummschalten",
+    "unmute": "Klang aktivieren",
+    "chimesActive": "Zen-Klangschalen aktiv",
+    "chimesMuted": "Audio stumm",
+    "durationLabel": "Phasendauer",
+    "pace3s": "3s · Einsteiger",
+    "pace4s": "4s · Navy SEAL Standard",
+    "pace5s": "5s · Tiefe Ruhe",
+    "pace6s": "6s · Fortgeschritten",
+    "cycle": "Zyklus",
+    "cyclesCompleted": "Zyklen beendet",
+    "mindfulMinutes": "Achtsame Minuten",
+    "resetStats": "Reset",
+    "keyboardTip": "Tasten: Leertaste für Start/Pause · M für Ton · R für Reset",
+    "soundNotice": "Synthetische Web Audio Klangschalen · 100% offline ohne MP3-Downloads"
+  },
+  "guide": {
+    "badge": "Atemwissenschaft",
+    "title": "Die Wissenschaft der 4-4-4-4 Quadratatmung",
+    "subtitle": "Von US Navy SEALs, Spitzensportlern und Therapeuten genutzt, um akuten Stress in Minuten aufzulösen und geistige Klarheit zu gewinnen.",
+    "whatIsHeading": "Was ist Box Breathing?",
+    "whatIsText": "Box Breathing (Quadratatmung) ist eine Atemmethode zur Regulierung des vegetativen Nervensystems. Vier gleich lange Phasen: 4 Sekunden einatmen, 4 Sekunden gefüllt halten, 4 Sekunden ausatmen und 4 Sekunden leer verweilen.",
+    "sealUsageHeading": "Warum Navy SEALs darauf vertrauen",
+    "sealUsageText": "Unter extremem Einsatzstress schüttet der Körper Adrenalin aus. Die 4-4-4-4 Atmung stimuliert den Vagusnerv, senkt die Herzfrequenz und reaktiviert ruhiges, strategisches Denken.",
+    "stepsHeading": "In 4 Schritten üben",
+    "step1Title": "1. Einatmen (4s)",
+    "step1Desc": "Atme sanft durch die Nase in den Bauch ein. Spüre, wie sich die Bauchdecke hebt.",
+    "step2Title": "2. Voll halten (4s)",
+    "step2Desc": "Halte die Luft entspannt an, ohne den Hals oder Nacken zu verkrampfen.",
+    "step3Title": "3. Ausatmen (4s)",
+    "step3Desc": "Lass die Luft langsam und vollständig durch Mund oder Nase entströmen.",
+    "step4Title": "4. Leer halten (4s)",
+    "step4Desc": "Verweile in Ruhe mit leeren Lungen, bevor der nächste Atemzug beginnt.",
+    "benefitsHeading": "Wissenschaftlich belegte Vorteile",
+    "b1Title": "Sofortige Stressreduktion",
+    "b1Desc": "Aktiviert den Parasympathikus innerhalb von 2 bis 3 Minuten.",
+    "b2Title": "Vagusnerv-Stimulation",
+    "b2Desc": "Verbessert die Herzratenvariabilität (HRV) nachhaltig.",
+    "b3Title": "Fokus & geistige Frische",
+    "b3Desc": "Gleicht Sauerstoff und Kohlendioxid aus und beseitigt geistige Erschöpfung.",
+    "b4Title": "Blutdrucknormalisierung",
+    "b4Desc": "Entlastet das Herz-Kreislauf-System bei akuter Belastung."
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen (FAQ)",
+    "subtitle": "Alles Wichtige zur 4-4-4-4 Atemtechnik und der Funktionsweise.",
+    "items": [
+      {
+        "q": "Was bewirkt die 4-4-4-4 Atemtechnik?",
+        "a": "Sie gleicht das vegetative Nervensystem aus, indem Einatmung, Atempause, Ausatmung und Leere jeweils 4 Sekunden dauern."
+      },
+      {
+        "q": "Wie viele Minuten sollte ich üben?",
+        "a": "Bereits 2 bis 5 Minuten (ca. 8 bis 20 Zyklen) reichen völlig aus, um akute Anspannung in Ruhe umzuwandeln."
+      },
+      {
+        "q": "Welche Dauer soll ich wählen?",
+        "a": "4 Sekunden ist der bewährte Standard. Für Einsteiger eignen sich 3 Sekunden, für tiefe Meditation 5 oder 6 Sekunden."
+      },
+      {
+        "q": "Wie funktioniert die Audioausgabe?",
+        "a": "Über die Web Audio API des Browsers werden harmonische Klangschalenfrequenzen in Echtzeit erzeugt – komplett ohne externe MP3-Dateien."
+      },
+      {
+        "q": "Hilft die Methode bei Schlafproblemen?",
+        "a": "Ja, sie bereitet das Nervensystem ideal auf die nächtliche Regeneration vor."
+      },
+      {
+        "q": "Werden meine Daten gespeichert?",
+        "a": "Nein. Alle Daten bleiben privat im lokalen Speicher Ihres Browsers. Keine Cookies, kein Tracking, keine Serveranfragen."
+      }
+    ]
+  },
+  "footer": {
+    "quote": "Ruhe einatmen, Anspannung ausatmen.",
+    "privacy": "100% Client-Side · Kein Tracking · Volle Privatsphäre · Funktioniert offline",
+    "support": "Entwickler unterstützen",
+    "builtBy": "Mit Sorgfalt für achtsame Momente entwickelt."
+  }
+}
